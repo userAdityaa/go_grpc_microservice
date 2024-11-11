@@ -1,0 +1,7 @@
+# scalar Time
+
+# type Account { 
+#     id: String!
+#     name: String!
+#     ordes:  
+# }
